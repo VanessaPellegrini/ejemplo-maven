@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 library 'pipeline-devops'
 
 ejecucion.call()
-=======
 pipeline {
     agent any
 
@@ -33,4 +31,3 @@ pipeline {
     }
 }
 
->>>>>>> ad3f51b (Update and rename Jenkingfile to Jenkinsfile)
